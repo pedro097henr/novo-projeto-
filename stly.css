@@ -2,3 +2,23 @@
 margin: 0; 
 padding:0 ;   
 }
+
+
+header{
+display: flexbox;
+justify-content: space-between;
+align-items: center;
+background-color: black;
+padding: 15px;
+}
+h1{
+font-size: 20px;
+color: azure;
+}
+nav{
+padding: 10px;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+}
